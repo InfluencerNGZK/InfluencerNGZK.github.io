@@ -32,7 +32,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580219739839</updated>
-      <workItem from="1580219742638" duration="621000" />
+      <workItem from="1580219742638" duration="1964000" />
+      <workItem from="1580285887812" duration="1916000" />
     </task>
     <servers />
   </component>
@@ -40,9 +41,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="143" y="43" key="SettingsEditor" timestamp="1580220025030">
+    <state x="143" y="43" key="SettingsEditor" timestamp="1580286257835">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="143" y="43" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1580220025030" />
+    <state x="143" y="43" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1580286257835" />
   </component>
 </project>
