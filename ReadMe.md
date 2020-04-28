@@ -1,2 +1,3 @@
-### github首页搭建
-基于博客模板进行后续优化
+# Build a website using github.io
+
+Using several templates
