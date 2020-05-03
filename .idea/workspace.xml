@@ -3,38 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0da76174-76f6-4198-b7e8-7238a932ad26" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/2020/05/03/hello-world/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/2020/05/03/trypost/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/archives/2020/05/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/archives/2020/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/archives/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/css/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/css/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/css/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/css/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/css/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/css/images/banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/fancybox/blank.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/fancybox/fancybox_loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/fancybox/fancybox_loading@2x.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/fancybox/fancybox_overlay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/fancybox/fancybox_sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/fancybox/fancybox_sprite@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/fancybox/helpers/fancybox_buttons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/fancybox/helpers/jquery.fancybox-buttons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/fancybox/helpers/jquery.fancybox-buttons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/fancybox/helpers/jquery.fancybox-media.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/fancybox/helpers/jquery.fancybox-thumbs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/fancybox/helpers/jquery.fancybox-thumbs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/fancybox/jquery.fancybox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/fancybox/jquery.fancybox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/fancybox/jquery.fancybox.pack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/tags/post/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hexo/trypage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +66,7 @@
       <workItem from="1588085126885" duration="693000" />
       <workItem from="1588492179686" duration="4705000" />
       <workItem from="1588498394941" duration="596000" />
-      <workItem from="1588499907585" duration="659000" />
+      <workItem from="1588499907585" duration="1258000" />
     </task>
     <servers />
   </component>
