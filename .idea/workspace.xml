@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0da76174-76f6-4198-b7e8-7238a932ad26" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="0da76174-76f6-4198-b7e8-7238a932ad26" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/modify.html" />
+    <property name="last_opened_file_path" value="D:/project/hexo" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/modify.html" />
   </component>
@@ -65,6 +62,7 @@
       <workItem from="1588048449063" duration="136000" />
       <workItem from="1588062108829" duration="276000" />
       <workItem from="1588085126885" duration="693000" />
+      <workItem from="1588492179686" duration="2833000" />
     </task>
     <servers />
   </component>
@@ -76,14 +74,18 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="360" y="203" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1580349108765" />
+    <state x="371" y="147" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588493258599">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="371" y="147" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1588493258599" />
     <state x="93" y="93" width="1093" height="613" maximized="true" key="DiffContextDialog" timestamp="1588043615618">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="93" y="93" width="1093" height="613" maximized="true" key="DiffContextDialog/0.0.1280.800@0.0.1280.800" timestamp="1588043615618" />
-    <state x="421" y="155" key="FileChooserDialogImpl" timestamp="1588039813787">
+    <state x="421" y="155" key="FileChooserDialogImpl" timestamp="1588493550221">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="421" y="155" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1588039813787" />
+    <state x="421" y="155" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1588493550221" />
     <state x="143" y="43" key="SettingsEditor" timestamp="1582034564098">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
